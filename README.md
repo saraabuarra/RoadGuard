@@ -54,8 +54,7 @@ Camera → AI Detection → Incident Verification → GPS Location → Video Evi
 
 For the complete project documentation, including system design, hardware design, implementation details, testing, diagrams, and project images:
 
-- [Graduation Project Report](Documentation/Intelligent_vision-based_emergency_detection_and_action_system-Senior%20Project.docx)
-
+- [Graduation Project Report](Documentation/Intelligent_vision-based_emergency_detection_and_action_system-Senior%20Project.pdf)
 
 
 ---
