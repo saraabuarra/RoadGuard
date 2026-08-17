@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "78844381267",
+    "firebase_url": "https://emergency-system-2ae13-default-rtdb.firebaseio.com",
+    "project_id": "emergency-system-2ae13",
+    "storage_bucket": "emergency-system-2ae13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78844381267:android:107c6e42f8abf0e2699ea6",
+        "android_client_info": {
+          "package_name": "com.example.emergency_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfFC9gxUsqPmsYttLqGn97AUekiOb9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
